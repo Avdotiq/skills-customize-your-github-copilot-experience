@@ -20,6 +20,25 @@
       ]
     },
     {
+      "id": "python-functions-modules",
+      "title": "Python Functions and Modules",
+      "description": "Learn reusable functions, code organization with modules, and importing helpers in Python.",
+      "path": "assignments/python-functions-modules",
+      "dueDate": "2026-04-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Helper Module",
+          "file": "helpers.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
